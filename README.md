@@ -24,6 +24,6 @@ git push --delete origin <tagname>
      use the “git push” command and specify the tag name 
 
 git push origin :refs/tags/<tag>
-```
+
 # README image
 ![git image ](https://git-scm.com/images/logos/2color-lightbg@2x.png)
